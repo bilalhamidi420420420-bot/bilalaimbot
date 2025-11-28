@@ -1,1 +1,1 @@
-# bilalaimbot
+CryptoProBot - backend + mobile skeleton\nSee backend/ and mobile-app/ folders.\n
